@@ -46,7 +46,7 @@
       VALUES
       (1, 'Base Salary', 'Regular monthly salary', 3000.00),
       (2, 'Overtime', 'Additional pay for overtime hours', 200);
-  #### **Salary Adjustments: **
+  #### **Salary Adjustments:**
   *Table that contains information about different salary adjustments. This enables historical tracking of changes to an employee's compensation.*
   
     -- Example records
