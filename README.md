@@ -1,4 +1,10 @@
 # payroll-system
+> [!NOTE]
+> 1. Pictures of the diagram in relational model (engineering notation) and logical model are uploaded in issues section.
+> 2. If you want the  actual diagram send me an email at 202210041@fit.edu.ph
+> 3. Its up to you to if you want to remodel or make alterations.
+> 4. If the diagram is giving you a headache consult me so we can adjust it.
+> 5. If the majority considers the system done we may proceed to creating sample records for the tables created.
 
 ## Business Rules Draft (Someone must make a proper document)
 
@@ -72,9 +78,4 @@
   One-to-Many Many payroll records must be associated with at least one earnings type. This means that an earnings type (e.g., Base Salary) can be applied to multiple employees in their payroll records.
 #### Employee - SalaryAdjustment 
  One-to-many relationship, this is because one employee can have multiple salary adjustments over time, but each salary adjustment is associated with one specific employee. 
-> [!NOTE]
-> 1. Pictures of the diagram in relational model (engineering notation) and logical model are uploaded in issues section.
-> 2. If you want the  actual diagram send me an email at 202210041@fit.edu.ph
-> 3. Its up to you to if you want to remodel or make alterations.
-> 4. If the diagram is giving you a headache consult me so we can adjust it.
-> 5. If the majority considers the system done we may proceed to creating sample records for the tables created.
+
